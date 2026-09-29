@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Notebook/Notebook.iml" filepath="$PROJECT_DIR$/Notebook/Notebook.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/ProgramacaoII-BSI.iml" filepath="$PROJECT_DIR$/.idea/ProgramacaoII-BSI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Roteiro 03/Questao 1/Questao 1.iml" filepath="$PROJECT_DIR$/Roteiro 03/Questao 1/Questao 1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Roteiro 03/Questao 2/Questao 2.iml" filepath="$PROJECT_DIR$/Roteiro 03/Questao 2/Questao 2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Revisao e Fixacao - Gabriel Augusto/Questao1/Questao1.iml" filepath="$PROJECT_DIR$/Revisao e Fixacao - Gabriel Augusto/Questao1/Questao1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Revisao - Gabriel Augusto/Revisao - Gabriel Augusto.iml" filepath="$PROJECT_DIR$/Revisao - Gabriel Augusto/Revisao - Gabriel Augusto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Revisao e Fixacao - Gabriel Augusto/Revisao e Fixacao - Gabriel Augusto.iml" filepath="$PROJECT_DIR$/Revisao e Fixacao - Gabriel Augusto/Revisao e Fixacao - Gabriel Augusto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Roteiro 03/Roteiro 03.iml" filepath="$PROJECT_DIR$/Roteiro 03/Roteiro 03.iml" />
+    </modules>
+  </component>
+</project>

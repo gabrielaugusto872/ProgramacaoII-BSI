@@ -1,0 +1,5 @@
+Na passagem por valor, o método recebe uma cópia do valor da variável original. Assim, alterações feitas no parâmetro dentro do método não alteram diretamente a variável original.
+
+Na passagem por referência, o método recebe uma referência direta à variável original. Portanto, alterações feitas no parâmetro podem alterar a variável que foi passada para o método.
+
+Java sempre faz passagem por valor. Para tipos primitivos, é passada uma cópia do valor; para objetos, é passada uma cópia da referência, permitindo modificar o objeto original, mas não substituir a referência original da variável.

@@ -1,0 +1,37 @@
+2.59 - Nome do método: getCode
+Tipo de retorno: string
+
+2.60 - Nome do método: setCredits
+Nome do parâmetro: creditValue
+Tipo do parâmetro: int
+
+2.61 - public class Person(){
+}
+
+2.62 - String name;
+int age;
+String code;
+int credits;
+
+2.63 - public class Module(String moduleCode){
+	this.code = moduleCode;
+}
+
+2.64 - public class Person(String myName, int myAge){
+	this.name = myName;
+	this.age = myAge;
+}
+
+2.65 - public int getAge(){
+	return age;
+}
+
+o tipo void retorna vazio.
+
+2.66 - public String getName(){
+	return name;
+}
+
+2.67 - public void setAge(int myAge){
+	this.age = myAge;
+}
